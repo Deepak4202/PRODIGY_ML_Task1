@@ -5,10 +5,15 @@ This project predicts house prices using a simple linear regression model. It in
 ## 📁 Project Structure
 
 house_price_project/
+
 ├── house_price_prediction.py # Main Python script
+
 ├── train.csv # Training dataset (with SalePrice)
+
 ├── test.csv # External test dataset (without SalePrice)
+
 ├── predictions.csv # Output file with predicted sale prices
+
 └── README.md # Project description and instructions
 
 csharp
